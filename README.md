@@ -1,6 +1,6 @@
 Bienvenido a CVDG (Nuestar pagina)
 Para utilizarla se necesita tener lsw 2 y node.js
-git clone 
+git clone https://github.com/DanielLuna11/Motoko-P.git
 npm install
 dfx start --background
 dfx deploy 
